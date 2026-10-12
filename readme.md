@@ -222,6 +222,9 @@ nav a:hover {
 ```
 
 **Screenshot codingan:** 
+![Codingan Langkah 5](images/codingan%205.2.png)
+
+**Screenshot codingan:** 
 ![Codingan Langkah 5](images/codingan%205.png)
 
 **Screenshot hasil browser:** 
@@ -265,6 +268,9 @@ Hero panel berisi judul Hello World!, paragraf, dan tautan Learn more.
     line-height: 25px;
 }
 ```
+
+**Screenshot codingan:** 
+![Codingan Langkah 6](images/codingan%206.2.png)
 
 **Screenshot codingan:** 
 ![Codingan Langkah 6](images/codingan%206.png)
@@ -368,6 +374,9 @@ Sidebar berisi widget header dengan lima tautan dan widget teks.
 ```
 
 **Screenshot codingan:**
+![Codingan Langkah 8](images/codingan%208.2.png)
+
+**Screenshot codingan:**
 ![Codingan Langkah 8](images/codingan%208.png)
 
 **Screenshot hasil browser:**
@@ -398,6 +407,9 @@ footer {
 
 **Screenshot codingan:**
 ![Codingan Langkah 9](images/codingan%209.png)
+
+**Screenshot codingan:**
+![Codingan Langkah 9](images/codingan%209.2.png)
 
 **Screenshot hasil browser:**
 ![Hasil-browser Langkah 9](images/hasil-browser%209.png)
